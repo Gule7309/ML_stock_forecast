@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.zip
+.env
+.env.*
+inputs/
+lightgbm_baseline/experiments/next_stage/TEAM*/
